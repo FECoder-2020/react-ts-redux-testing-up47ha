@@ -1,0 +1,14 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+  color:darkblue;
+}
+
+li {
+  /* font-variant: small-caps; */
+  line-height: 1.6em;
+  list-style: square;
+}
